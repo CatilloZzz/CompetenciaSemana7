@@ -1,4 +1,4 @@
-package ni.edu.uam.competenciasemana7;
+package ni.edu.uam.competenciasemana7.models;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

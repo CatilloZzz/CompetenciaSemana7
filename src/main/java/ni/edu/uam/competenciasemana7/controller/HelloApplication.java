@@ -1,4 +1,4 @@
-package ni.edu.uam.competenciasemana7;
+package ni.edu.uam.competenciasemana7.controller;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
